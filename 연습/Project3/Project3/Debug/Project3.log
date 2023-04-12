@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\jk47w\desktop\컴퓨터 그래픽스\computergraphics\project3\project3\소스.cpp(11): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jk47w\desktop\컴퓨터 그래픽스\computergraphics\project3\project3\소스.cpp(18): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\jk47w\desktop\컴퓨터 그래픽스\computergraphics\project3\project3\소스.cpp(25): warning C4838: 'double'에서 'GLfloat'(으)로의 변환에는 축소 변환이 필요합니다.
+  Project3.vcxproj -> C:\Users\jk47w\Desktop\컴퓨터 그래픽스\ComputerGraphics\Project3\Debug\Project3.exe

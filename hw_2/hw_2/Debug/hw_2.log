@@ -1,7 +1,0 @@
-﻿hw_2.obj : error LNK2005: "void __cdecl MyDisplay(void)" (?MyDisplay@@YAXXZ)이(가) [Code 02-08] Menu Callback.obj에 이미 정의되어 있습니다.
-hw_2.obj : error LNK2005: "void __cdecl MyInit(void)" (?MyInit@@YAXXZ)이(가) [Code 02-08] Menu Callback.obj에 이미 정의되어 있습니다.
-hw_2.obj : error LNK2005: "void __cdecl MyMainMenu(int)" (?MyMainMenu@@YAXH@Z)이(가) [Code 02-08] Menu Callback.obj에 이미 정의되어 있습니다.
-hw_2.obj : error LNK2005: _main이(가) [Code 02-08] Menu Callback.obj에 이미 정의되어 있습니다.
-hw_2.obj : error LNK2005: "unsigned char IsSphere" (?IsSphere@@3EA)이(가) [Code 02-08] Menu Callback.obj에 이미 정의되어 있습니다.
-hw_2.obj : error LNK2005: "unsigned char IsSmall" (?IsSmall@@3EA)이(가) [Code 02-08] Menu Callback.obj에 이미 정의되어 있습니다.
-C:\Users\jk47w\Desktop\컴퓨터 그래픽스\ComputerGraphics\hw_2\Debug\hw_2.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
