@@ -1,0 +1,6 @@
+﻿  main.cpp
+F:\Projects\2023\CPP\OpenGlEx\sample01\main.cpp(14,21): warning C4805: '==': 연산에 'GLboolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+F:\Projects\2023\CPP\OpenGlEx\sample01\main.cpp(22,21): warning C4805: '==': 연산에 'GLboolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+F:\Projects\2023\CPP\OpenGlEx\sample01\main.cpp(30,21): warning C4805: '==': 연산에 'GLboolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+F:\Projects\2023\CPP\OpenGlEx\sample01\main.cpp(38,21): warning C4805: '==': 연산에 'GLboolean' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  sample01.vcxproj -> F:\Projects\2023\CPP\OpenGlEx\Debug\sample01.exe

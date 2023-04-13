@@ -1,16 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\hw_2",
-    "\\hw_2\\Debug",
-    "\\hw_2\\hw_2",
-    "\\Project1",
-    "\\Project1\\Project1",
-    "\\Project2",
-    "\\Project2\\Project2",
-    "\\Project4",
-    "\\Project4\\Project4"
+    "\\과제",
+    "\\과제\\19오동재 과제물 04",
+    "\\과제\\19오동재 과제물 04\\19오동재 과제물 04",
+    "\\연습",
+    "\\연습\\OpenGlEx",
+    "\\연습\\OpenGlEx\\RobotArmEx"
   ],
-  "SelectedNode": "\\Project4\\Project4\\hw3.cpp",
+  "SelectedNode": "\\과제\\19오동재 과제물 04\\19오동재 과제물 04\\main.cpp",
   "PreviewInSolutionExplorer": false
 }
